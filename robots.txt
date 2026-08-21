@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-4124es.crystalbeachny.com/sitemap.xml
